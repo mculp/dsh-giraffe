@@ -1,2 +1,2 @@
 # dsh-giraffe
-deepseek giraffe engineering
+This is an experiment with DeepSeek's Superagent.
